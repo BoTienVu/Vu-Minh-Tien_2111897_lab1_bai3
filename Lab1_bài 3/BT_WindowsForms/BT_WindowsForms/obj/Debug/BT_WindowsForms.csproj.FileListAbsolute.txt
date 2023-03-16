@@ -1,0 +1,13 @@
+C:\Users\Khoi\OneDrive\Máy tính\PTUD_Desktop\BT_WindowsForms\BT_WindowsForms\bin\Debug\BT_WindowsForms.exe.config
+C:\Users\Khoi\OneDrive\Máy tính\PTUD_Desktop\BT_WindowsForms\BT_WindowsForms\bin\Debug\BT_WindowsForms.exe
+C:\Users\Khoi\OneDrive\Máy tính\PTUD_Desktop\BT_WindowsForms\BT_WindowsForms\bin\Debug\BT_WindowsForms.pdb
+C:\Users\Khoi\OneDrive\Máy tính\PTUD_Desktop\BT_WindowsForms\BT_WindowsForms\obj\Debug\BT_WindowsForms.csproj.AssemblyReference.cache
+C:\Users\Khoi\OneDrive\Máy tính\PTUD_Desktop\BT_WindowsForms\BT_WindowsForms\obj\Debug\BT_WindowsForms.FrmBai1.resources
+C:\Users\Khoi\OneDrive\Máy tính\PTUD_Desktop\BT_WindowsForms\BT_WindowsForms\obj\Debug\BT_WindowsForms.FrmChinh.resources
+C:\Users\Khoi\OneDrive\Máy tính\PTUD_Desktop\BT_WindowsForms\BT_WindowsForms\obj\Debug\BT_WindowsForms.Properties.Resources.resources
+C:\Users\Khoi\OneDrive\Máy tính\PTUD_Desktop\BT_WindowsForms\BT_WindowsForms\obj\Debug\BT_WindowsForms.csproj.GenerateResource.cache
+C:\Users\Khoi\OneDrive\Máy tính\PTUD_Desktop\BT_WindowsForms\BT_WindowsForms\obj\Debug\BT_WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Khoi\OneDrive\Máy tính\PTUD_Desktop\BT_WindowsForms\BT_WindowsForms\obj\Debug\BT_WindowsForms.exe
+C:\Users\Khoi\OneDrive\Máy tính\PTUD_Desktop\BT_WindowsForms\BT_WindowsForms\obj\Debug\BT_WindowsForms.pdb
+C:\Users\Khoi\OneDrive\Máy tính\PTUD_Desktop\BT_WindowsForms\BT_WindowsForms\obj\Debug\BT_WindowsForms.FrmBai2.resources
+C:\Users\Khoi\OneDrive\Máy tính\PTUD_Desktop\BT_WindowsForms\BT_WindowsForms\obj\Debug\BT_WindowsForms.frmBai3.resources
